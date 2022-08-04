@@ -1,0 +1,9 @@
+#Ignorar arquivos .txt
+*.txt
+*.in
+*.out
+
+#Ignorar arquivos executáveis
+*.exe
+
+.vscode
